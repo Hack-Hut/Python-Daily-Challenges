@@ -20,9 +20,9 @@ If you're unlucky enough to be on windows then you will probably have to downloa
 
 ## Installation ##
 To install just do the following commands  
-`cd ~/Documents ` 
-`sudo git clone https://github.com/Hack-Hut/Python-Daily-Challenges.git `
-`cd Python-Daily-Challenges.git`
+`cd ~/Documents`   
+`sudo git clone https://github.com/Hack-Hut/Python-Daily-Challenges.git `  
+`cd Python-Daily-Challenges.git`  
 
 ## Why did I do this? ##
 Duno got bored on the commute to work and wanted to improve on my python for work as I needed a refresher.   
