@@ -21,7 +21,7 @@ If you're unlucky enough to be on windows then you will probably have to downloa
 ## What version of python?
 You can do these challenges in any language you want (within reason), therefore any version of Python is acceptible. Although the solutions (that i did not write) are wirrten in python version 2. I would recommend using Python version 3.*. The solutions used probably wont work if you're running python 3. To get arround this you should specifiy Python 2 in the terminal.  
 `python2 Solution.py`  
-To force the Python version as 3 you can just do the following. 
+To force the Python version as 3 you can just do the following.   
 `python3 Solution.py`  
 
 ## Installation ##
