@@ -1,0 +1,4 @@
+Hints:
+
+Use unicode() function to convert.
+

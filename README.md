@@ -18,6 +18,12 @@ If you don't get something like the above then you will need to install python f
 
 If you're unlucky enough to be on windows then you will probably have to download and install python manually, for that you can follow a youtube video on the installaltion proccess, then come back here and follow this readme. 
 
+## What version of python?
+You can do these challenges in any language you want (within reason), therefore any version of Python is acceptible. Although the solutions (that i did not write) are wirrten in python version 2. I would recommend using Python version 3.*. The solutions used probably wont work if you're running python 3. To get arround this you should specifiy Python 2 in the terminal.  
+`python2 Solution.py`  
+To force the Python version as 3 you can just do the following. 
+`python3 Solution.py`  
+
 ## Installation ##
 To install just do the following commands  
 `cd ~/Documents`   
@@ -25,7 +31,7 @@ To install just do the following commands
 `cd Python-Daily-Challenges.git`  
 
 ## Why did I do this? ##
-Duno got bored on the commute to work and wanted to improve on my python for work as I needed a refresher.   
+Duno got bored on the commute to work and wanted to improve on my python for work, as I needed a refresher.   
 
 
 ## Credit ##

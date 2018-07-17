@@ -1,0 +1,4 @@
+Hints:
+
+Use \w to match letters.
+

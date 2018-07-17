@@ -2,7 +2,111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="739c9fb1-1275-450f-b45e-0850df114409" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Gen3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gen3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generate2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-1/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-10/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-100/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-11/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-12/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-13/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-14/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-15/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-16/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-17/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-18/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-19/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-2/Attempt.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-2/Attempt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-2/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-20/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-21/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-22/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-23/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-24/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-25/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-26/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-27/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-28/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-29/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-3/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-30/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-31/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-32/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-33/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-34/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-35/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-36/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-37/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-38/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-39/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-4/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-40/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-41/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-42/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-43/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-44/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-45/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-46/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-47/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-48/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-49/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-5/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-50/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-51/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-52/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-53/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-54/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-55/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-56/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-57/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-58/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-59/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-6/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-60/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-61/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-62/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-63/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-64/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-65/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-66/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-67/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-68/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-69/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-7/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-70/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-71/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-72/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-73/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-74/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-75/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-76/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-77/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-78/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-79/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-8/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-80/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-81/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-82/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-83/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-84/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-85/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-86/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-87/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-88/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-89/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-9/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-90/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-91/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-92/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-93/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-94/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-95/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-96/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-97/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-98/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-99/temp.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,49 +116,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Generate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="31" column="24" selection-start-line="28" selection-start-column="12" selection-end-line="31" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Generate2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generate2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="20" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gen3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gen3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_pydev_execfile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Python_challenges.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_challenges.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -249,12 +311,12 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16375" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32988358" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32988358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32988358" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -299,14 +361,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Generate.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="45" />
+      <option name="time" value="63" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -325,13 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -357,8 +405,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gen3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="292">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,3 @@
+Hints:
+Use __init__ method to construct some parameters
+

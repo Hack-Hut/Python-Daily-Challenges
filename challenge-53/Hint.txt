@@ -1,0 +1,4 @@
+Hints:
+
+Use def methodName(self) to define a method.
+
