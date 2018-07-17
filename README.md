@@ -5,18 +5,18 @@ This is for anyone who wants to try and practice python. The challenges can be d
 
 ## Requirements ##
 All you need is python, if you're on linux open up a terminal and type  
-`python` 
+`python`   
 If you get something like the following you're good to start the challenges   
 `
 Python 3.6.5 (default, May 11 2018, 04:00:52) 
 [GCC 8.1.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
->>> `
+>>> `  
 
 If you don't get something like the above then you will need to install python for example on Ubuntu all you need to do is   
-`apt-get update & apt-get install python`
+`apt-get update & apt-get install python`  
 
-If you're unlucky enough to be on windows then you will probably have to download and install python manually, for that you can follow a youtube video on the installaltion proccess, then come back here and follow this readme. 
+If you're unlucky enough to be on windows then you will probably have to download and install python manually, for that you can follow a youtube video on the installaltion proccess, then come back here and follow this readme.   
 
 ## What version of python?
 You can do these challenges in any language you want (within reason), therefore any version of Python is acceptible. Although the solutions (that i did not write) are wirrten in python version 2. I would recommend using Python version 3.*. The solutions used probably wont work if you're running python 3. To get arround this you should specifiy Python 2 in the terminal.  
